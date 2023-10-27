@@ -20,7 +20,7 @@
 
 # Procedure:
 ## STEP 1. Identify the Problem:
-#### i).Determine the exact nature of the problem. Common issues include system crashes, slow performance, software errors, and hardware malfunctions. Note any error messages or unusual behavior.
+#### Determine the exact nature of the problem. Common issues include system crashes, slow performance, software errors, and hardware malfunctions. Note any error messages or unusual behavior.
 
 ## STEP 2. Backup Data:
 #### Before proceeding with troubleshooting, ensure you have a backup of critical data to prevent data loss during the process.
@@ -30,6 +30,8 @@
 
 ## STEP 4. Restart the Computer:
 ##### Sometimes, a simple restart can resolve minor issues. Try rebooting your computer.
+![image](https://github.com/Raja8334/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/120719634/2074e4ec-93ff-46cb-915d-6abed6f1d75a)
+
 
 ## STEP 5. Search for Error Messages:
 #### If there are error messages, search online for their meanings and possible solutions. Many error messages have known fixes.
@@ -42,11 +44,15 @@
 
 ## STEP 8. Check for Malware:
 #### Scan your system for malware using reputable antivirus oranti-malware software. Ensure your antivirus definitions are up-to-date.
+![image](https://github.com/Raja8334/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/120719634/6e677d06-2a88-4d3d-b44e-f4d2d744fb09)
+
 ## STEP 9. Disable Startup Programs:
 #### Some performance issues may be due to too many programs starting at boot. Disable unnecessary startup programs.
 
 ## STEP 10. Safe Mode Boot:
 #### Boot your OS into safe mode to see if the problem persists. Safe mode loads a minimal set of drivers and may help identify if third-party software is causing issues.
+![image](https://github.com/Raja8334/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/120719634/24ed9b71-9eeb-47a8-862f-2f1c28abdc1c)
+
 
 ## STEP 11. Check Hardware Connections:
 #### If you suspect hardware issues, check connections for peripherals like RAM, hard drives, and cables. Re-seat components if necessary.
@@ -59,6 +65,8 @@
 
 ## STEP 14. Reinstall Drivers:
 #### If you suspect driver issues, uninstall and reinstall drivers for hardware components.
+![image](https://github.com/Raja8334/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/120719634/aff6f895-a496-468f-99b2-97ba4144687b)
+
 
 ## STEP 15. Repair or Reinstall OS:
 #### As a last resort, consider repairing or reinstalling the OS. Be sure to back up data first.
