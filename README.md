@@ -2,7 +2,7 @@
 
 # AIM:
 Troubleshooting an Operating System
-
+ 
 # Objective:
 To diagnose and resolve common issues in an operating system.
 
